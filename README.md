@@ -1,2 +1,2 @@
 # Portfolio-Website
-Css, Html portfolio website under intership of Bharat Intern
+Css, Html portfolio website under internship of Bharat Intern
